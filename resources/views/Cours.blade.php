@@ -88,13 +88,7 @@
     <p>Bienvenue à votre espace d’apprentissage</p>
   </header>
 
-  <!--<nav>
-    <a href="file:///home/ilyas-sekhsoukhi/Bureau/DashBord/DashBord.html#">Accueil</a>
-    <a href="#">Cours</a>
-    <a href="#">Notes</a>
-    <a href="#">Profil</a>
-    <a href="#">Contact</a>
-  </nav>-->
+ 
 
   <div class="hero">
     <h1>Apprenez, progressez, réussissez</h1>
